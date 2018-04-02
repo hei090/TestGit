@@ -5,7 +5,7 @@ package util;
  */
 public class test {
     public void tet(){
-        System.out.println("hahhaha");
+        System.out.println("hahhahaaaa");
     }
 
 }
